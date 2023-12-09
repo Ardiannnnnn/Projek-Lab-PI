@@ -1,0 +1,19 @@
+
+kompas com   guna mendukung rencana nasional penanggulangan bencana  politeknik negeri semarang  polines  membuat inovasi sistem monitoring dan early warning system  ews  tanah longsor 
+adapun inovasi tersebut berkolaborasi dengan mitra industri  hal ini juga untuk mengoptimalkan berbagai inovasi yang sejalan dengan kebutuhan masyarakat 
+tentunya  melalui program matching fund tahun 2022  polines berhasil mengembangkan inovasi yang tidak hanya memperkaya keilmuan saja  tetapi juga berdampak besar bagi masyarakat dan pemerintah 
+dampak tersebut utamanya dalam membangun sistem manajemen penanggulangan bencana alam  khususnya bencana tanah longsor 
+baca juga  mahasiswa unila inovasi alat monitoring kualitas udara
+dilansir dari laman ditjen pendidikan vokasi  minggu  30 7 2023   inovasi ini dipilih lantaran sebagai negara tropis dengan curah hujan yang cukup tinggi  indonesia menjadi salah satu negara dengan ancaman bencana hidrometeorologis yang cukup tinggi 
+salah satunya adalah bencana tanah longsor  berdasarkan data badan nasional penanggulangan bencana  bnpb   longsor kerap menjadi bencana paling mematikan di indonesia  sepanjang 2022  setidaknya 7 kejadian tanah longsor setiap bulannya 
+ketua program matching fund polines  prof  muhammad mukhlisin mengatakan  ide pengembangan sistem monitoring dan early warning system  ews  tanah longsor dilatarbelakangi oleh kondisi topografi yang ada di indonesia 
+khususnya yang ada di pulau jawa  baik jawa tengah  jawa barat  dan jawa timur yang sering terjadi bencana tanah longsor 
+ dengan intensitas hujan 3 000 milimeter per tahun  maka potensi untuk terjadinya longsor di daerah perbukitan  khususnya yang terjadi di jawa tengah sangat mudah terjadi   terang prof  muhammad mukhlisin 
+untuk itulah penelitian dan pengembangan alat sistem monitoring dan ews menjadi sangat penting  terutama dalam mengembangkan sistem teknologi yang dapat mendeteksi dan kemudian melakukan monitoring proses terjadinya tanah longsor  khususnya pada daerah daerah yang rawan longsor tersebut 
+adapun produk inovasi ini didesain kompleks sesuai dengan parameter yang dikaitkan sebagai faktor terjadinya longsor 
+
+produk ini terdiri atas hardware berupa 5 alat sensor  yakni sensor curah hujan  pergerakan tanah  tekanan air tanah  level air tanah  dan sensor kelembaban tanah  sensor sensor tersebut terintegrasi dengan website monitoring www ewspolines com 
+ jadi  dalam sistem ini kita men develop lima sensor yang akan kita gunakan untuk monitoring daerah rawan longsor   jelasnya 
+baca juga  dosen unair inovasi alat bagi pengguna laptop  cegah mata lelah
+ia berharap  pengembangan produk ini dapat melengkapi teknologi mitigasi bencana longsor yang efektif  terpadu  dan accessible 
+selain itu  pengembangan produk ini merupakan bentuk dukungan polines dalam membantu pemerintah untuk realisasi program rencana nasional penanggulangan bencana 

@@ -1,0 +1,20 @@
+
+kompas com   tim mahasiswa binus international menjadi satu satunya perwakilan dari indonesia dan berhasil menjadi top 3 winner di ajang google solution challenge 2023  annual event yang diselenggarakan langsung oleh google sebagai salah satu perusahaan teknologi terbesar di dunia 
+acara final google solution challenge 2023 menghadirkan 10 finalis dari berbagai belahan dunia dan memperebutkan posisi 3 besar yang telah diumumkan pada tanggal 3 agustus 2023 melalui youtube resmi google for developers 
+pesertanya berasal dari bolivia  nigeria  india  singapura  korea selatan  inggris  kazakhstan  amerika serikat  dan indonesia 
+kontes ini diadakan dengan tujuan untuk mengajak para pemuda  terutama mahasiswa  untuk belajar menciptakan solusi dari masalah yang ada di komunitasnya dengan memanfaatkan platform google 
+baca juga  cek 12 perguruan tinggi yang baru buka fakultas kedokteran
+satu hal yang sangat bermakna bagi indonesia pada kontes tahun 2023 ini karena mahasiswa indonesia berhasil masuk top 10  bahkan lolos menjadi global top 3 teams 
+finalis indonesia yang aktif dalam acara tersebut adalah 4 mahasiswa dari binus international  yakni philipus adriel tandra  aric hernando  jason jeremy wijadi  dan jason christian hailianto 
+keempat mahasiswa ini tergabung dalam kelompok bernama wonder reader yang merupakan satu satunya tim dari indonesia 
+baca juga  tiga mahasiswa raih kontrak kerja hingga modal rp 50 juta dari menves
+sebanyak 10 daftar tim dari google solution challenge 2023 berasal dari berbagai penjuru yang sebelumnya tergabung dalam google developer students club  gdsc  
+ke 10 tim ini bukan hanya ahli dalam penggunaan teknologi  tapi concern dengan masalah di sekitar mereka  kontes ini bukan hanya sekedar ajang perlombaan saja bagi mereka  tetapi juga turut menyumbang pencapaian untuk sdg goals 2030 
+para kontestan juga harus mengaitkan masalah dan solusi yang mereka pilih dengan sustainable development goals dari united nation 
+
+baca juga  daftar nama 76 siswa anggota paskibraka 2023  kenali juga sejarahnya
+menurut data dari kementerian kesehatan ri 2020  jumlah penyandang disabilitas tuna netra sudah mencapai 5 persen dari total penduduk indonesia 
+namun  jumlah yang cukup banyak ini masih belum diimbangin dengan akses disabilitas yang mumpuni  buktinya  masih jarang akses disabilitas yang terlihat di publik  termasuk bagi penyandang tuna netra 
+menciptakan magic dengan alat pembaca braille  wonder reader menciptakan inovasi pemanfaatan teknologi yang dapat berguna bagi siswa disabilitas penyandang tuna netra 
+mereka menggabungkan 3 fasilitas google  yang mencakup google cloud  firebase  flutter and google text to speech api 
+ketiga kombinasi ini menghasilkan karya inovatif yang selaras dengan 2 poin utama sdg goals  yaitu quality education dan reduced inequalities 

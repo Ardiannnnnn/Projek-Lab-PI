@@ -1,0 +1,22 @@
+
+kompas com   gelombang panas yang ekstrem  peningkatan suhu air  dan kenaikan tingkat keasaman air laut merupakan beberapa tantangan yang harus dihadapi petambak udang dalam menjaga kualitas hasil panen udang mereka 
+terkait hal itu  sekolah tinggi elektro dan informatika institut teknologi bandung  stei itb  menggelar pengabdian masyarakat bagi petambak udang di cijulang  pangandaran  jawa barat 
+pengabdian masyarakat stei itb dipimpin ketua peneliti prof  trio adiono  guru besar stei itb dan pelaksana devi noor endrawati  mahasiwa stei itb pada september 2022 hingga september 2023 
+prof  trio adiono melalui rilis resmi  29 11 2023  menjelaskan  salah satu tujuan pengabdian masyarakat di tambak udang adalah meningkatkan kualitas produksi melalui inovasi teknologi 
+inovasi teknologi ini  jelas prof  trio adiono  tidak hanya meningkatkan kuantitas hasil tetapi juga kualitas udang yang dihasilkan  pengabdian masyarakat dengan fokus pada teknologi di tambak udang juga berarti memberdayakan petani tambak dengan pengetahuan dan keterampilan terbaru 
+ melalui pelatihan  workshop  dan akses ke informasi teknologi  para petani dapat memperoleh pemahaman yang lebih baik tentang teknologi yang mereka gunakan   ungkap prof  trio 
+ hal ini membantu mereka dalam mengambil keputusan yang lebih cerdas dan mengoptimalkan penggunaan teknologi tersebut   lanjutnya 
+tim pengabdian masyarakat stei itb memperkenalkan teknologi smart water meter  perangkat monitoring untuk mengukur kualitas air 
+baca juga  mahasiswa uns inovasi mesin pencuci peragi kedelai yang hemat biaya
+dari perangkat smart water meter yang digunakan terdapat beberapa bagian utama diantaranya modul elektronik  sensor  kadar keasaman air  ph   suhu air  kadar oksigen terlarut di air  suhu dan kelembapan udara  kadar partikel padat terlarut di air 
+sensor ini mengukur parameter seperti suhu  tingkat oksigen terlarut  ph  salinitas  dan amonia dalam air 
+informasi yang dikumpulkan oleh sensor sensor ini memberikan pemahaman yang mendalam tentang kondisi lingkungan di dalam tambak  ketika parameter air berada di luar rentang ideal  petani dapat segera mengambil tindakan perbaikan untuk mencegah masalah kesehatan udang 
+sistem manajemen tambak ini dibangun berbasis iot  internet of things  sehingga memungkinkan pemantauan jarak jauh terhadap kondisi tambak  memastikan penggunaan sumber daya seperti air dan pakan dikontrol secara efisien 
+hal ini membantu para petani dalam memprediksi pola pola tertentu  mengoptimalkan pengelolaan tambak  dan membuat keputusan berdasarkan pada informasi yang terukur secara real time 
+dalam kesempatan sama  devi noor endrawati menyampaikan  pemasangan perangkat dilakukan pada bulan desember 2022 dan kemudian dilakukan kunjungan pertama pada 23 februari 2023 
+devi menjelaskan  sumber daya listrik yang digunakan pada perangkat smart water meter adalah menggunakan panel surya  sumber tegangan diambil dari panel surya untuk siang hari  yang sekaligus berfungsi untuk mengisi daya baterai untuk sumber daya sore hingga pagi hari 
+dari proses monitoring yang dilakukan didapatkan bahwa terdapat beberapa hal yang perlu dibenahi dan diperbaiki dari perangkat smart water meter  setelah melakukan perbaikan  pada tanggal 9 september 2023 dilakukan kunjungan ulang ke amulu farm untuk mengganti perangkat berkarat dengan perangkat baru dengan kebaruan setelah proses monitoring sebelumnya 
+baca juga  sampo kucing dari daun asam jawa ini hasil inovasi mahasiswa usk
+ 
+ kemudian dilakukan pengukuran ulang dan kalibrasi dari perangkat yang baru smart water meter  kunjungan berkala perlu dilakukan untuk memantau perangkat agar perangkat dapat dimanfaatkan lebih maksimal   ujar devi menutup penjelasan 
+ 

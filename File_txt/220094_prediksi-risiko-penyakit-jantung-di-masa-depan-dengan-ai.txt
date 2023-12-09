@@ -1,0 +1,11 @@
+ 
+kompas com   berkat kecerdasan buatan  artificial intelligence ai  kini kita bisa memprediksi apakah kita beresiko terkena penyakit berat di masa depan  semudah memencet tombol di keyboard 
+salah satu cara memprediksi risiko penyakit seperti serangan jantung atau stroke adalah dengan mengukur abdominal aortic calcification  aac  
+secara umum aac adalah pengendapan kalsium atau kalsifikasi dalam jumlah besar di dinding pembuluh darah perut  jika ditemukan kalsifikasi dapat diprediksi apakah seseorang beresiko terkena penyakit pembuluh darah  risiko jatuh dan tulang patah  serta demensia di usia lanjut 
+mesin pemindaian kepadatan tulang yang dipakai untuk mendeteksi osteoporosis sebenarnya juga dapat mendeteksi aac 
+namun  pakar yang terlatih pun butuh waktu cukup lama  sekitar 5 15 menit  per gambar untuk menganalisis hasil pemindaian 
+baca juga  5 penyebab demensia sesuai jenisnya  tak hanya usia
+tim peneliti kedokteran dari edith cowan university berkolaborasi untuk mengembangkan software yang bisa menganalisa gambar pemindaian dengan sangat cepat  yaitu 60 000 gambar per hari 
+pengembangan software ini menggunakan algoritma yang dikombinasikan dengan model mesin pemindai kepadatan tulang 
+pengembangan software ini tentu menjadi kabar yang penting karena bisa meningkatkan efisiensi para ahli dalam menganalisis aac dan tentu mencegah risiko terkena serangan jantung di kemudian hari 
+baca juga  sering tak disadari  ini gejala penyakit jantung yang perlu diketahui

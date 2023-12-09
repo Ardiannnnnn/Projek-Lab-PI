@@ -1,0 +1,17 @@
+
+kompas com   zivanka nafisa wongkaren merupakan wisudawan termuda dengan usia 19 tahun 1 bulan  dia jalani wisuda pertama itb di gedung sabuga  jalan tamansari  bandung  pada sabtu  28 10 2023  
+dia berhasil menamatkan pendidikan sarjananya pada program studi internasional teknik mesin 
+rupanya  perempuan yang akrab disapa zizi ini telah menjalani program akselarasi di setiap jenjang pendidikan yang ditempuhnya 
+baca juga  lulus dari undip  marshanda gapai ipk 3 66
+tak heran  zizi berhasil menamatkan pendidikan sd hanya selama 5 tahun  sementara itu  untuk bangku smp dan sma  dia tamatkan dalam waktu hanya 2 tahun 
+selain karena memiliki kecerdasan akademik yang tinggi dan berhasil masuk akselarasi  zizi juga mempunyai minat terhadap kerajinan origami dan menyusun mainan lego 
+hal inilah yang menjadi sebuah dorongan baginya untuk makin berkreasi dan berinovasi 
+seiring dengan berjalannya waktu  zizi mengaku ingin semakin menyelami dunia robotika dan mekatronika 
+ berbekal ilmu  aku membayangkan bisa membuat barang apapun yang ada di benakku  tentunya pada usia 14 tahun  prospek pekerjaan bukan pertimbangan utama bagi aku  namun  akhirnya aku menjatuhkan pilihan untuk menekuni teknik mesin karena bidang ini memberikan wawasan bermanfaat tentang sistem mekanika  aku bisa mengkonstruksi robot robot yang cukup unik sesuai imajinasi   kata zizi dilansir dari laman itb  selasa  29 11 2023  
+menurut zizi  ada banyak sekali jalur yang bisa dipilih ketika kuliah 
+meskipun mengambil teknik mesin  dia terdorong untuk memiliki kecakapan interdisipliner seperti mekatronika  kontrol  programming  dan ai 
+bicara soal tugas akhir  zizi mengerjakan tugas akhirnya merupakan kolaborasi antara laboratorium dinamika ftmd itb dengan pusat riset mekatronika cerdas lipi brin 
+dia melakukan riset terkait implementasi deep reinforcement learning  drl  dalam parkir lurus mundur yang diajukan untuk kendaraan otonom 
+ selama riset ini berlangsung  aku belajar banyak hal tentang dunia ai dan reinforcement learning dalam berbagai teknis  tugas utama aku melakukan kajian dari riset riset terdahulu mengenai drl dan mencoba memodifikasi dan mengimplementasikannya   jelas dia 
+ metode tersebut diterapkan ke dalam lingkungan virtual yang dipakai untuk simulasi parkir dengan ketentuan khusus   tambah dia 
+zizi menyebut tugas akhir  ta  sebagai representasi dari jerih payah dan kualitas seorang mahasiswa 

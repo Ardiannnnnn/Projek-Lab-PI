@@ -1,0 +1,20 @@
+
+kompas com   kasus pemalsuan dokumen masih menjadi masalah serius di indonesia  data dari direktori putusan mahkamah agung menunjukkan bahwa lebih dari 2 500 kasus pemalsuan terjadi selama tahun 2023 
+dokumen dokumen yang sering dipalsukan  yaitu ijazah  akta cerai  sertifikat  bahkan ktp 
+pemalsuan dokumen ini sebenarnya dapat dicegah apabila mencetak dokumen menggunakan tinta keamanan atau tinta fluoresens  sebab tinta ini mempunyai keunggulan khusus dalam memancarkan warna saat terkena sinar laser uv 
+baca juga  kolaborasi mahasiswa ui  itb  dan unpar juara bca business case competition 2023
+sayangnya tinta ini dibanderol dengan harga yang relatif tinggi  yakni mencapai rp 700 000 untuk setiap 100 ml 
+kondisi inilah yang akhirnya melatarbelakangi tim mahasiswa fakultas mipa universitas padjadjaran  unpad  untuk membuat tinta anti pemalsuan dengan harga yang lebih terjangkau 
+tim ini terdiri dari sukma jan eda  fisika   mita putriyani  fisika   dan najwa osya azhari  fisika   yang mendapat bimbingan dari prof  dr rer nat ayi bahtiar  m si  membuat tinta yang bernama cfink 
+baca juga  mahasiswa ugm temukan khasiat daun binahong untuk terapi cedera ginjal
+cfink merupakan tinta fluoresens berbasis carbon quantum dots  yang dapat memancarkan dua warna berbeda ketika disinari laser uv dan laser hijau  tinta ini akan menghasilkan warna biru toska saat terkena sinar laser uv dan mengeluarkan warna kuning saat disinari oleh laser hijau 
+ tinta c fink ini akan memberikan keamanan ganda pada dokumen cetak karena sifat uniknya yang memancarkan dua warna berbeda   kata sukma yang dilansir dari laman resmi unpad  rabu  11 10 2023  
+tinta cfink dihasilkan dari bahan bahan yang mudah didapat dan ekonomis  seperti asam sitrat  asam borat  dan urea  melalui proses hidrotermal  ketiga bahan ini menghasilkan partikel carbon quantum dots dengan ukuran kurang dari 10 nanometer 
+partikel ini memiliki karakteristik optik khusus  yakni kemampuan untuk memancarkan cahaya 
+ karena dibuat dari bahan bahan yang murah dan proses sederhana  biaya pembuatan tinta c fink ini lebih terjangkau dibandingkan tinta keamanan biasa dengan volume yang sama   tambah sukma 
+baca juga  tim pkm pm unesa ajari warga olah sampah plastik jadi bbm
+carbon quantum dots yang telah diperkaya dengan nitrogen dan boron diencerkan dalam etanol hingga membentuk larutan kental dengan viskositas sebanding dengan tinta biasa 
+larutan ini kemudian dicampur dengan tinta standar  hasil dari proses ini adalah tinta printer yang siap untuk mencetak berbagai dokumen  dokumen dapat mencakup teks  barcode  maupun qr code yang akan memancarkan warna ketika terkena sinar laser uv atau laser hijau 
+dengan inovasi ini  sukma beserta kedua rekan lainnya berharap dapat memberikan solusi untuk mengurangi kasus pemalsuan dokumen di indonesia 
+ kami mengharapkan bahwa tinta c fink ini bisa memberikan manfaat yang besar kepada masyarakat indonesia  selain itu  kami berharap bahwa inovasi ini akan memberikan solusi yang terjangkau untuk menjaga keaslian dokumen dan mengurangi kasus pemalsuan dokumen di indonesia   pungkas sukma 
+inovasi tinta anti pemalsuan membawa tim mahasiswa ini dianugerahi insentif dari program kreativitas mahasiswa   riset eksakta  pkm re  kemendikbud ristek tahun 2023 

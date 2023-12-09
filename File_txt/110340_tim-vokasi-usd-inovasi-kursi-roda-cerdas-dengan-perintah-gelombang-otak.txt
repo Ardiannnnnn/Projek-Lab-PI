@@ -1,0 +1,23 @@
+
+kompas com   tim hibah matching fund fakultas vokasi universitas sanata dharma  usd  bekerjasama dengan pt  helber elektronika indonesia  berhasil mengembangkan kursi roda cerdas 
+dengan penggunaan teknologi bci  brain computer interface   inovasi kursi roda ini bisa menjadi alternatif bagi pasien stroke yang lumpuh untuk bisa beraktivitas 
+menurut ignatius deradjad pranowo  s s   m eng   mewakili tim fakultas vokasi usd  prototipe kursi roda berbasis pengolahan sinyal otak  mindwave  ini diintegrasikan dengan sensor mpu6050  ultrasonik  gps  dan iot  internet of things  
+adapun sensor mpu6050  kombinasi accelerometer dan gyroscope  digunakan untuk mendeteksi pergerakan kepala  yang diintegrasikan dengan sinyal atensi dari mindwave 
+baca juga  di thailand  2 mahasiswa usd turut kembangkan robot bagi penyandang autisme
+tentunya untuk merespon keinginan pengguna dalam mengendalikan kursi roda  termasuk dalam mengubah arah dan kecepatan 
+sensor ultrasonik digunakan untuk menghindari rintangan dan mengukur jarak dari objek di sekitar kursi roda 
+ integrasi gps pada aplikasi ini untuk memberikan informasi tentang lokasi kursi roda dan pengguna  serta trek lintasan   ujarnya dalam keterangan tertulisnya  senin  13 11 2023  
+sedang integrasi iot digunakan untuk membuat kursi roda terhubung ke jaringan internet dan berinteraksi dengan sistem lain  seperti perangkat mobile atau sistem perawatan medis 
+ ini memungkinkan pengiriman data real time  pemantauan jarak jauh  dan penyampaian informasi yang penting   imbuh deradjad 
+dikatakan  melalui integrasi teknologi tersebut  seorang penderita stroke juga akan sangat terbantu untuk mendapatkan bantuan atau pertolongan dari tenaga medis jika diperlukan 
+baca juga  inovasi mahasiswa uny  air laut layak minum dan jadi bahan bakar kapal
+ melalui koneksi iot  informasi seperti lokasi  kondisi fisik pengguna  dan pergerakan kursi roda dapat dikirimkan kepada perawat atau tenaga medis  ini memungkinkan pemantauan jarak jauh dan intervensi cepat jika diperlukan   jelas dia 
+berkat hibah matching fund vokasi ini  baik insan pt maupun mitra industri dapat saling melengkapi dan mewujudkan hilirisasi hasil inovasi penelitian  sehingga hasil riset tidak berhenti hanya sebagai prototipe 
+selain itu  bagi penderita stroke yang lumpuh  teknologi ini akan dapat meningkatkan kemandirian mereka khususnya dalam hal mobilitas 
+serta memungkinkan mereka untuk berpartisipasi dalam aktivitas sehari hari tanpa bantuan eksternal yang terlalu banyak 
+
+meski begitu  teknologi yang banyak memberi dampak postif ini tentunya masih membutuhkan pengembangan dan dukungan lebih jauh 
+khususnya jika akan dikembangkan menjadi produksi massal yang bisa digunakan untuk membantu lebih banyak penderita stroke  perbandingan cost benefit tentu menjadi pertimbangan 
+biaya produksi yang muncul dari pengembangan kursi roda  bahan baku  teknologi  pengujian  perijinan  dan pemasaran  memang relatif cukup besar namun jika disandingkan dengan manfaat yang diperoleh dari penggunaan produk inovasi ini  yang meliputi 
+baca juga  ugm usung inovasi bangunan kayu yang efektif serap karbon
+ maka efek manfaatnya bisa dikatakan sebanding bahkan melampaui biaya sumber daya yang telah digunakan   tandas deradjad 

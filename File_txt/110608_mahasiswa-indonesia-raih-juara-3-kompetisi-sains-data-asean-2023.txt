@@ -1,0 +1,18 @@
+kompas com   prestasi gemilang telah diraih oleh perwakilan indonesia dalam ajang asean data science explorers  dse  regional finals 2023  tim  jkalgolithm  dari indonesia berhasil meraih juara ketiga dalam kompetisi yang digelar oleh asean foundation bersama sap ini 
+tim ini terdiri atas kay eugenia purnama dan jessen wiryawan  dua mahasiswa indonesia yang berkuliah di national university of singapore  nus  
+proyek yang mereka buat berfokus pada solusi untuk kawasan atau daerah kumuh yang seringkali ditemukan di indonesia atau negara asean lainnya  menurut riset yang mereka lakukan  terdapat banyak isu terkait kurangnya pemantauan pemerintah dalam kasus ini 
+baca juga  pentingnya mengembangkan kemampuan analisis data generasi muda
+terlebih  mereka menilai bahwa komunitas yang ada di daerah kumuh kerap menghadapi berbagai tantangan  seperti terbatasnya akses air bersih  pengangguran  dan lain sebagainya 
+dari adanya kondisi tersebut  mereka menghadirkan solusi pembuatan website terpadu untuk meningkatkan pemantauan 
+ untuk itu  kami mengusulkan solusi yaitu an all in one website platform untuk meningkatkan monitoring efforts dengan satellite imaging yang dipadu dengan remote sensing and image classification techniques   jelas kay dalam wawancara yang dilakukan oleh tim kompas com  rabu  25 10 2023  
+selain itu  solusi ini juga mereka buat guna menghubungkan sukarelawan ke kawasan kumuh yang membutuhkan bantuan mendesak 
+kay mengungkapkan  dalam proses penyusunan proyek ini  mereka melakukan riset mendalam untuk mendukung analisis mereka  lalu  mereka membuat visualisasi data untuk menunjukkan wawasan yang ingin ditekankan 
+baca juga  dorong generasi muda melek data  dqlab umn rilis modul pentaho bahasa indonesia
+selanjutnya  mereka mencari tahu upaya yang dilakukan negara negara lain dalam menghadapi isu yang mereka pilih 
+ kami mengadaptasi solusi itu supaya bisa lebih diterapkan dan sesuai dengan komunitas yang ditujukan   ujarnya 
+dalam merancang proyek ini  kay dan jessen juga menghadapi berbagai tantangan  namun  tantangan terbesar bagi mereka yaitu waktu 
+ dalam kompetisi seperti ini  tekanan waktu sangat tinggi karena kami perlu menyusun proyek  mengumpulkan dan menganalisis data  serta mengembangkan solusi yang efektif dalam jangka waktu yang terbatas   tutur kay 
+terlebih  mereka berdua harus membagi waktu terhadap pengerjaan proyek ini di tengah kesibukan kuliah mereka 
+baca juga  masuki era ai dan big data  lulusan 7 jurusan ini banyak dibutuhkan
+meskipun begitu  mereka tetap bersemangat dalam menyelesaikan proyek ini guna memberi dampak positif dengan mengatasi isu pemukiman kumuh 
+ semangat kami untuk mengatasi isu slums dan menciptakan dampak positif terus memotivasi kami untuk mengatasi setiap kendala yang muncul   ucapnya 

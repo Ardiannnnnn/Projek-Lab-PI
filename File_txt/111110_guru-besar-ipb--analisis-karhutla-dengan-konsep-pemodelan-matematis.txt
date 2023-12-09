@@ -1,0 +1,24 @@
+
+kompas com   saat musim kemarau berpotensi terjadi bencana kebakaran hutan dan lahan  karhutla   karena itu  perlu pemodelan untuk menganalisis karhutla di indonesia 
+menurut guru besar fakultas matematika dan ilmu pengetahuan alam  fmipa  ipb university  prof  sri nurdiati  analisis karhutla di indonesia bisa dengan konsep pemodelan matematis 
+dikatakan  konsep pemodelan yang menggunakan data amatan dari stasiun klimatologi dengan skala model yang singkat  harian  mingguan  tersebut dapat memberikan hasil yang jauh lebih akurat 
+tentu hal itu jika dibandingkan dengan analisis pada data satelit 
+baca juga  ini cerita guru besar unja yang dulu sempat kerja serabutan
+ ada dua karakter karhutla di indonesia berdasarkan pada data luas terbakar global fire emission database  gfed  tahun 1997 2016   ujarnya saat konferensi pers pra orasi guru besar ipb university secara daring  kamis 21 9 2023  seperti dikutip dari laman ipb university 
+dijelaskan  pola karhutla pertama meliputi wilayah riau dan sekitarnya  sumatera bagian selatan  kalimantan  dan merauke 
+tentu  kondisi ini terjadi pada musim kemarau pada pertengahan hingga akhir tahun dengan periode 12 bulan 
+sementara itu  pola karhutla kedua terjadi pada wilayah sumatera bagian utara  riau dan sekitarnya  dalam periode 6 bulan dan tidak memiliki keterikatan yang konsisten terhadap el nino dan indian ocean dipole  iod  
+sebagai upaya antisipasi masa datang  maka salah satu pemodelan yang paling populer adalah metode regresi 
+metode statistik ini dipakai untuk memperkirakan hubungan antara variabel terikat dan variabel independen atau lebih 
+baca juga  guru besar ugm  ini gejala penyakit hirschsprung pada bayi baru lahir
+dalam penelitian lain diperkenalkan integrasi indeks el nino southern oscillation  enso  dan iod atau perbedaan suhu permukaan laut di dua wilayah dalam mempengaruhi korelasi antara indikator iklim yang digunakan dengan titik panas pada setiap tahunnya 
+ hasil dari transformasi tersebut kemudian digunakan untuk mendapatkan variabel indikator iklim yang terikat dengan fenomena enso dan iod  analisis pada data yang diintegrasikan dapat menghasilkan performa umum jauh lebih baik dari penelitian sebelumnya   jelasnya 
+tak hanya itu saja  ia juga mengulas tentang probfire yang dikenalkan nikovas pada 2022 sebagai model dasar sistem peringatan kebakaran di masa depan dengan menggabungkan indikator iklim 
+indikator iklim itu ialah curah hujan  suhu udara  dan kelembaban relatif dan non iklim  aktivitas karhutla sebelumnya dan tutupan lahan hutan  
+secara umum  probfire melampaui prediksi karhutla berbasis hanya pada data klimatologi saja pada waktu tenggang 2 hingga 4 bulan di kalimantan selatan  sumatera selatan  dan papua selatan 
+
+selain itu  pendekatan lain yang cukup populer ialah dengan hidro climatologycal indikator pada pemodelan karhutla 
+dengan menggunakan selisih curah hujan dan penguapan  komponen pertama dari data berubah menjadi tidak hanya mencakup area dengan periode hujan 12 bulan  tetapi juga area yang memiliki periode karhutla 6 bulan 
+tentu metode ini penting mengingat indonesia telah mengalami lebih dari 300 bencana alam pada periode 1990 2021  dan 70 persen di antaranya merupakan dampak dari perubahan iklim 
+baca juga  guru besar unesa  boleh gunakan gawai di kelas  tapi dengan pendekatan ini
+beberapa hasil penelitian juga menunjukkan bahwa indonesia sebagai salah satu negara paling rentan terhadap gelombang panas ekstrem menurut proyeksi model iklim 

@@ -1,0 +1,18 @@
+
+kompas com   sejak mei 2023  satuan pendidikan  satdik  wajib melakukan konfirmasi penerimaan dana bos pada portal bos salur terlebih dulu 
+hal ini bertujuan agar data penerimaan dana pada arkas terisi secara otomatis  selanjutnya  data yang telah terkonfirmasi tersebut akan digunakan untuk penerimaan dana pada bku arkas 
+dana bantuan operasional satuan pendidikan atau disebut dana bosp adalah dana alokasi khusus non fisik untuk mendukung biaya operasional nonpersonalia bagi satuan pendidikan
+dilansir dari laman direktorat smp kementerian pendidikan  kebudayaan  riset dan teknologi  kemendikbud ristek   senin  28 8 2023  berikut langkah langkah melakukan konfirmasi dana yang dapat dilakukan oleh satuan pendidikan 
+baca juga  cerita etik  anak petani yang lolos di 6 kampus luar negeri
+1  login sebagai sekolah pada portal bos salur melalui https   bos kemdikbud go id session menggunakan sso dapodik atau alternatif sekolah  untuk login alternatif sekolah silakan masukkan email operator yang terdaftar  npsn  dan kode registrasi dapodik 
+2  pilih daftar penyaluran kemudian lakukan pengecekan apakah satdik sudah menerima salur dana bos 
+3  pilih menu konfirmasi dana bos
+4  pilih baris pada tahap dana bos yang ingin dikonfirmasi dan klik tombol konfirmasi 
+5  isi data berikut ini pada halaman konfirmasi dana 
+
+baca juga  mau sekolah di sma kolese de britto  kenali jalur masuk dan syaratnya
+berikut merupakan beberapa status salur 
+6  setelah memastikan semua data telah diisi dengan benar  klik konfirmasi 
+7  setelah mengirimkan konfirmasi data  maka akan muncul tampilan informasi berupa berapa nilai konfirmasi dan tanggal melakukan konfirmasi  serta tanggal data konfirmasi terkirim ke markas 
+data akan dikirim ke markas secara langsung  realtime  
+8  selanjutnya  setelah 1 24 jam setelah konfirmasi  satdik dapat melakukan konfirmasi penerimaan dana di bku arkas agar data konfirmasi masuk ke bku 

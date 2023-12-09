@@ -1,0 +1,14 @@
+
+kompas com   banjir merupakan bencana yang kerap terjadi di indonesia ketika musim hujan datang  permasalahan ini melatarbelakangi tim mahasiswa universitas airlangga dalam membuat inovasi alat pendeteksi banjir berbasis machine learning guna menangani permasalahan banjir di surabaya 
+ inovasi ini muncul karena kekhawatiran kami terhadap masalah banjir di indonesia  khususnya kota surabaya  terhitung ada 118 titik di wilayah kota surabaya yang sering tergenang banjir sepanjang tahunnya   ujar m  assadam  selaku ketua tim  yang dilansir dari unair news 
+baca juga  5 jurusan hukum terbaik di indonesia  unair nomor 1
+inovasi ini membawa tim yang berisi m  assadam rizqi saputra dari program studi manajemen dan devi rizky aditya dari program studi teknologi sains data meraih juara 3 dalam kompetisi soedirman science competition 2023 
+sadam menuturkan  inovasi ini bisa memprediksi banjir secara real time dengan menggunakan metode ensemble dalam machine learning  metode ini dapat mengirimkan data dan menghasilkan output lebih cepat daripada metode lainnya 
+terlebih  metode ini juga meningkatkan akurasi dan meminimalisasi bias dalam pembentukan model prediksi 
+baca juga  remedy  aplikasi terapi bagi korban bullying karya mahasiswa unair
+selain dapat memprediksi banjir  alat ini juga dapat mengurangi polusi akibat penggunaan daya yang tidak efisien  hal ini karena alat tersebut memanfaatkan energi surya yang merupakan energi baru terbarukan  ebt  
+ nantinya  persentase prediksi banjir ini akan dibuat secara open access untuk publik  para pengguna bisa mengaksesnya melalui tiga media  yaitu website desa terkait  sms  dan alarm  jadi  mereka akan lebih mudah dan cepat mendapatkan informasi   jelasnya 
+ia juga berharap agar inovasi ini memberikan sumbangsih pada poin sustainable development goals  sdgs  nomor 3 terkait dengan perubahan iklim 
+ semoga hadirnya inovasi ini mampu menyelesaikan salah satu dampak perubahan iklim yaitu banjir khususnya di kota kota besar seperti surabaya   ucapnya 
+baca juga  soal pengganti skripsi  rektor unair  butuh kajian khusus dalam penerapannya
+sadam juga berharap agar inovasi ini bisa mendapatkan dukungan dari berbagai pihak dan bisa diimplementasikan secara nyata untuk mengatasi permasalahan banjir di daerah rawan banjir  seperti kota surabaya 

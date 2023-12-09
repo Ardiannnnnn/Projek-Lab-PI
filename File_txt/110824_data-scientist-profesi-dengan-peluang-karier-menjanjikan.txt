@@ -1,0 +1,20 @@
+
+kompas com   dosen teknologi informasi james cook university  jcu   singapore dr randy zhu mengatakan  data scientist memiliki peluang karier yang menjanjikan pada masa depan 
+sebagai profesional yang terlatih dalam menganalisis data  data scientist berpeluang tinggi untuk bekerja di luar bidang teknologi 
+ industri seperti kesehatan dan sektor publik mulai memahami pentingnya data science   ujar dr zhu dalam keterangan tertulis yang dikutip dari laman channelnewsasia com  rabu  31 5 2023  
+zhu mencontohkan  contoh penerapan data science dilakukan oleh perusahaan singhealth dan sginnovate  kedua korporasi ini menandatangani nota kesepahaman  mou  yang bertujuan untuk memperluas kemampuan perawatan kesehatan di singapura lewat teknologi canggih 
+baca juga  tren lifestyle healthcare dalam perawatan kesehatan
+pemanfaatan data science diterapkan lewat teknologi canggih  hal ini kemudian diwujudkan dengan fokus pada investasi dalam kecerdasan buatan  ai  dan data analitis untuk memperkuat infrastruktur dan memperluas kapasitas 
+ selain itu  smart nation di singapura telah mendorong pemerintah untuk mendukung pengembangan di bidang data science   ucap dr zhu 
+sensor smart nation merupakan platform terintegrasi yang dibuat untuk mengumpulkan data data penting yang selanjutnya akan dianalisis guna menciptakan solusi cerdas  aplikasi ini kini digunakan untuk melacak penggunaan air dan menerapkan sistem deteksi tenggelam di kolam renang umum 
+di indonesia  penerapan data science di bidang kesehatan ditemukan pada inovasi electronic health records  her  atau dikenal dengan nama rekam medis elektronik  rme   teknologi ini membantu mengelola data pasien secara real time dan merekam histori kesehatan pasien 
+baca juga  mengapa kesehatan mental selalu dapat berubah  berikut penjelasannya 
+dengan rme  pelayanan kesehatan bisa diberikan secara tepat kepada pasien tanpa adanya medical error  inovasi ini juga membantu proses manajemen rumah sakit dalam mencatat atau merekam informasi penting  seperti kunjungan dokter dan keakuratan pemberian perawatan  sehingga menghemat waktu dan biaya serta menghindari duplikasi data 
+pada juli 2022  kementerian kesehatan  kemenkes  mewajibkan setiap fasilitas kesehatan  faskes  untuk menerapkan rme melalui peraturan menteri kesehatan  pmk  nomor 24 tahun 2022 
+pemerintah indonesia sadar bahwa penggunaan rekam medis konvensional sudah tidak relevan lagi diterapkan pada era sekarang  oleh karenanya  transformasi digital pelayanan kesehatan sangat dibutuhkan untuk mempermudah kinerja tenaga kesehatan  nakes  di indonesia 
+dr zhu melanjutkan  selain berdampak terhadap masyarakat luas  data science memiliki potensi untuk menciptakan perubahan positif bagi kelompok kelompok terpinggirkan dalam masyarakat 
+baca juga  5 poin perubahan positif ruu sisdiknas untuk paud  dikmen dan dikdas
+ia mencontohkan  kementerian pembangunan sosial dan keluarga  msf  singapura menggunakan data untuk mempersonalisasi dan mendukung warga yang membutuhkan 
+pada awal pandemi covid 19  kementerian bekerja sama dengan lembaga teknologi sektor publik  govtech  mengumpulkan data warga saat mendistribusikan bantuan agar tepat sasaran 
+ banyak keputusan yang diinformasikan saat ini didukung oleh data dalam bidang bidang seperti perawatan kesehatan dan pembuatan kebijakan  ini berarti bahwa kita dapat memanfaatkan data untuk menjelajahi lebih dalam dalam bidang bidang seperti dukungan sosial dan inklusivitas   kata dr zhu 
+baca juga  ajarkan anak keberagaman dan inklusivitas

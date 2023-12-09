@@ -1,0 +1,18 @@
+
+kompas com   mahasiswa membuat robot untuk ikut kompetisi tentu sudah biasa  tapi lain yang dilakukan mahasiswa politeknik caltex riau  pcr  
+iqbal syauky dan nadiya annisa berhasil merancang robot penjinak bom  dengan alat kontrol jarak jauh  robot tersebut bisa melakukan pemotongan kabel sumber pemicu bom 
+tentu  robot tersebut bisa dikendalikan melalui monitor yang ada pada remote control  sehingga  aman dilakukan dari jarak jauh 
+ternyata  robot inovasi mahasiswa pcr itu merupakan bagian dari tugas akhir iqbal dan nadiya sebagai mahasiswa program studi teknologi rekayasa mekatronika  politeknik caltex riau 
+baca juga  robot terbang ugm kembali raih gelar juara umum di krti 2023
+bahkan kedua mahasiswa tersebut baru saja diwisuda pada akhir oktober lalu 
+menurut iqbal  ide pembuatan robot penjinak bom ini sebenarnya tidak terlalu spesifik  selain untuk mengejar tugas akhir  ide robot penjinak bom justru terlintas begitu saja 
+ awalnya hanya terlintas dipikiran  setelah itu mencoba untuk mendesain bentuk dan cara kerja robotnya   ujar iqbal dilansir dari laman ditjen pendidikan vokasi kemendikbud ristek  rabu  8 11 2023  
+usai selesai  dia kemudian membawa rancangannya ke dosen pembimbing yakni nur khamdi   setelah melihat hasil desain dan cara kerja alat  dosen pembimbing akhirnya setuju dengan judul yang diajukan   katanya 
+namun ternyata pembuatan robot tersebut tidak terlalu rumit  robot penjinak bom itu dibuat dengan suku cadang yang sudah ada di dalam negeri 
+seperti motor penggerak  motor servo sebagai lengan dan pemotong kabel  radio control  kamera atau webcam  dan part pendukung lainnya 
+ proses pembuatannya memakan waktu sekitar enam bulan dengan total dana yang kami habiskan sekitar rp 30 juta   ungkap iqbal 
+nadiya menambahkan  robot yang dikembangkan bersama iqbal tersebut memiliki fungsi utama untuk melakukan pemotongan kabel sumber pada pemicu bom serta untuk mengidentifikasi bom 
+baca juga  ini sosok ilmuwan diaspora indonesia pencipta robot gundam raksasa
+ia mengatakan bahwa robotnya dikendalikan dengan remote control yang berbasis wireless  ada dua kamera yang berfungsi untuk memberikan gambar mengenai keadaan sekitar 
+gambar gambar yang ditangkap melalui kamera tersebut kemudian akan diproses dan dianalisis oleh tim penjinak bom sebagai dasar untuk tindakan 
+ ini untuk memutuskan kabel mana yang akan dipotong   tutur nadiya 

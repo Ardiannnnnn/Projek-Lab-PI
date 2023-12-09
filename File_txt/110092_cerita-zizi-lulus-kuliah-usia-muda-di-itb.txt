@@ -1,0 +1,18 @@
+
+kompas com   bisa lulus kuliah pada usia muda dari teman satu angkatan cukup membanggakan  seperti yang dialami zivanka nafisa wongkaren 
+perempuan yang akrab disapa zizi ini merupakan wisudawan termuda dengan usia 19 tahun 1 bulan  dia berhasil menamatkan pendidikan sarjananya pada program studi internasional teknik mesin 
+baca juga  kisah fachriza  lulusan terbaik teknik kimia itb raih ipk 3 99
+zizi bisa lulus pada usia muda karena telah menjalani program akselarasi di setiap jenjang pendidikan yang ditempuhnya 
+tak heran  zizi berhasil menamatkan pendidikan sd hanya 5 tahun  sementara pada bangku smp dan sma  dia tamatkan dalam waktu hanya 2 tahun 
+selain karena memiliki kecerdasan akademik yang tinggi dan masuk kelas akselarasi  zizi juga mempunyai minat terhadap kerajinan origami dan menyusun mainan lego 
+hal inilah yang menjadi sebuah dorongan baginya untuk makin berkreasi dan berinovasi 
+zizi pun mengaku ingin semakin menyelami dunia robotika dan mekatronika 
+ berbekal ilmu tersebut  aku membayangkan akan bisa membuat barang apapun yang ada di benakku  tentunya pada usia 14 tahun  prospek pekerjaan bukanlah pertimbangan utama bagi aku  namun  akhirnya aku menjatuhkan pilihan untuk menekuni teknik mesin karena bidang ini memberikan wawasan bermanfaat tentang sistem mekanika  aku bisa mengkonstruksi robot robot sendiri yang cukup unik sesuai imajinasi   ucap zizi dilansir dari laman itb 
+menurut zizi  ada banyak sekali jalur yang bisa dipilih ketika kuliah 
+meskipun mengambil teknik mesin  dia terdorong untuk memiliki kecakapan interdisipliner seperti mekatronika  kontrol  programming  dan ai 
+selama kuliah  zizi mengerjakan tugas akhirnya dengan kolaborasi antara laboratorium dinamika ftmd itb dengan pusat riset mekatronika cerdas lipi brin 
+dia melakukan riset terkait implementasi deep reinforcement learning  drl  dalam parkir lurus mundur yang diajukan untuk kendaraan otonom 
+ selama riset ini berlangsung  aku belajar banyak hal tentang dunia ai dan reinforcement learning dalam berbagai teknis  tugas utama aku melakukan kajian dari riset riset terdahulu mengenai drl dan mencoba memodifikasi dan mengimplementasikannya  metode tersebut diterapkan ke dalam lingkungan virtual yang dipakai untuk simulasi parkir dengan ketentuan khusus   ujar zizi 
+baca juga  sosok fitry  jenderal tni bintang satu lulus s3 cumlaude
+zizi menyebut tugas akhir  ta  sebagai representasi dari jerih payah dan kualitas seorang mahasiswa 
+ dosen dosen pembimbing telah menganggap kita sebagai kolega yang berpengetahuan dan professional   ungkap zizi 

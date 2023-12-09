@@ -1,0 +1,23 @@
+
+kompas com   guna mencegah pencurian ikan kerapu  maka dibutuhkan alat yang bisa mendeteksinya  seperti yang dilakukan oleh mahasiswa universitas negeri yogyakarta  uny  
+para mahasiswa fakultas teknik uny membuat inovasi dengan merancang sistem pemantauan keramba jaring apung berbasis long range  lora  dengan fitur pendeteksi pencurian 
+ketua tim fitriana dyah ayu rahmadhani menjelaskan  bisnis ikan kerapu merupakan salah satu produk yang menjanjikan karena tingginya permintaan konsumen 
+ namun  kegiatan budi daya ikan kerapu juga memiliki risiko kerugian yang cukup tinggi  seperti pencurian ikan dan kematian massal ikan akibat kondisi lingkungan perairan yang tidak sesuai   ujarnya  dilansir dari laman uny  kamis  31 8 2023  
+baca juga  mahasiswa kkn uny inovasi kawat buzzer untuk kendalikan emosi anak
+maka dari itu  solusi untuk mengatasi permasalahan tersebut diperlukan sebuah teknologi pada sistem pemantauan keramba jaring apung yang efektif 
+kini kebanyakan pengusaha budi daya ikan kerapu masih menggunakan metode pemantauan yang konvensional  seperti membayar orang untuk memeriksa kondisi keramba secara berkala pada malam hari menjelang panen 
+yang mana hal tersebut dapat menghabiskan waktu  tenaga dan biaya  sehingga dapat disimpulkan metode ini kurang efektif dalam mengatasi permasalahan tersebut 
+oleh karenanya dyah dan kawan kawan merancang sistem pemantauan keramba jaring apung berbasis lora yang dinamai netfarms 
+adapun tim dari uny itu selain dyah ialah naufal faiq azhar dan rifky andigta al fathir prodi pendidikan teknik elektro serta shaiful abas dan nauval hibrizi prodi pendidikan teknik mekatronika 
+naufal faiq azhar menambahkan  netfarms merupakan sistem pemantauan keramba jaring apung berbasis lora  long range  yang dilengkapi dengan fitur pendeteksi pencurian dengan menggunakan sensor laser dan light dependent resistor  ldr  yang dikombinasikan dengan sensor pir  passive infra red  
+ lora adalah teknologi wireless yang memungkinkan pengiriman data dalam jarak yang jauh dengan konsumsi daya yang rendah   jelas naufal 
+untuk penggunaan netfarms  dapat membantu pengusaha budi daya ikan memantau kondisi keramba secara real time melalui aplikasi yang tersedia di smartphone atau komputer tanpa perlu lagi membayar seseorang untuk memeriksa kondisi keramba 
+fitur pendeteksi pencurian pada netfarms juga dapat memberikan notifikasi langsung ke pengusaha budi daya ikan jika terdeteksi adanya aktivitas mencurigakan di sekitar keramba 
+sehingga pengusaha budi daya ikan dapat segera mengambil tindakan yang diperlukan untuk mencegah pencurian 
+tak hanya itu saja  netfarms juga dilengkapi dengan sistem pemantauan kecocokan perairan terhadap pertumbuhan ikan kerapu supaya dapat menunjang proses pertumbuhan 
+netfarms diharapkan dapat membantu pengusaha ikan kerapu meningkatkan efektivitas pemantauan keramba jaring apung dan mencegah kerugian yang disebabkan oleh pencurian ikan atau faktor lainnya 
+
+sedang rifky andigta al fathir menjelaskan sistem keamanan pada netfarms bekerja dengan cara mendeteksi gerakan yang mencurigakan di sekitar keramba jaring apung  menggunakan sensor laser sebagai pemancar cahaya yang diterima oleh ldr sebagai receiver 
+jika laser tersebut dipotong atau ditabrak oleh seseorang maka sensor akan mengirim data biner ke mikrokontroler  parameter kedua untuk mengetahui adanya tindakan pencurian di keramba jaring apung dengan menggunakan sensor pir  di mana sensor ini dapat membedakan suhu tubuh manusia dengan hewan lainnya 
+baca juga  mahasiswa uny inovasi sepeda untuk anak belajar keseimbangan
+ penggunaan dua sensor pada sistem keamanan ini dapat meningkatkan keamanan pada sistem  hasil pemantauan tersebut akan dikirim dengan teknologi lora ke smartphone pembudidaya ikan kerapu dalam bentuk notifikasi dan bunyi sirine   jelasnya 
